@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "E:/learn/semester3/ComputerSystem/verilog/P1/top.xst" -ofn "E:/learn/semester3/ComputerSystem/verilog/P1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7k325t-fbg900-2 top.ngc top.ngd  

@@ -1,0 +1,3 @@
+vhdtdtfi -lib work E:/learn/semester3/ComputerSystem/verilog/P1/splitter.v -lang verilog -prj P1 -o splitter.spl -module splitter -template D:/semester3/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 splitter.spl E:/learn/semester3/ComputerSystem/verilog/P1/splitter.sym 
+vhdtdtfi -lang verilog -prj P1 -o E:/learn/semester3/ComputerSystem/verilog/P1/splitter.tfi -lib work E:/learn/semester3/ComputerSystem/verilog/P1//splitter.v -module splitter -template D:/semester3/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

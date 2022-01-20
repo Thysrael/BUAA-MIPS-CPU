@@ -1,0 +1,11 @@
+`define nop 7'd0
+`define addu 7'd1
+`define subu 7'd2
+`define ori 7'd3
+`define lw 7'd4
+`define sw 7'd5
+`define beq 7'd6
+`define lui 7'd7
+`define j 7'd8
+`define jal 7'd9
+`define jr 7'd10

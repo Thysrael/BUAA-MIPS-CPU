@@ -1,0 +1,3 @@
+verilog work "BlockChecker.v"
+verilog work "BlockChecker_tb.v"
+verilog work "D:/semester3/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"
